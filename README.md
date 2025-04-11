@@ -1,4 +1,3 @@
-
 <!-- saved from url=(0038)https://shadow-requiem-apk.vercel.app/ -->
 <html lang="es"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 
